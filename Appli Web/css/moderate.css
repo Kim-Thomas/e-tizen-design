@@ -88,7 +88,7 @@ p {
 
 .pending-alert p {
     font-size: 16px;
-    margin: 10px;
+    margin-bottom: 10px;
 }
 
 .pending-alert.active {
