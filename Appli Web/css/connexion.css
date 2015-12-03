@@ -1,0 +1,52 @@
+.logo-small {
+    width: 100px;
+}
+
+.connexion {
+    padding: 20px;
+    width: 40%;
+    background: rgba(0,0,0,0.5);
+    -webkit-backdrop-filter: blur(5px);
+}
+
+.connexion p {
+    margin-bottom: 0px;
+}
+
+.connexion h4 {
+    margin: 10px;
+}
+
+.connexion hr {
+    border: none;
+    border-bottom: 4px solid white;
+    margin-bottom: 20px;
+    width: 40px;
+}
+
+.connexion input {
+    margin: 10px;
+    width: 70%;
+    background: none;
+    outline: none;
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+    transition: .5s;
+}
+
+.connexion input:hover, input:focus {
+    margin: 10px;
+    width: 80%;
+    transition: .5s;
+}
+
+
+.connexion input[type='submit'] {
+    background : rgba(250,250,250, 0.1);
+}
+
+.connexion input[type='submit']:hover {
+    background : rgba(250,250,250, .3);
+    transition: .5s;
+}
