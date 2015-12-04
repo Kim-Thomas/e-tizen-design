@@ -52,6 +52,15 @@ p {
     overflow-x: hidden;
 }
 
+.alert-list nav {
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.languages {
+    float: right;
+}
+
 .map {
     width: 70%;
     height: 100%;
