@@ -48,7 +48,7 @@ p {
 }
 
 a {
-    color: #42dca3;
+    color: #e1ff6a;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -61,7 +61,8 @@ a:focus {
 }
 
 .light {
-    font-weight: 400;
+    color: #e1ff6a;
+    font-weight: 100;
 }
 
 .navbar-custom {
@@ -103,7 +104,7 @@ a:focus {
 
 .navbar-custom .nav li a:hover {
     outline: 0;
-    color: rgba(255,255,255,.8);
+    color: #e1ff6a;
     background-color: transparent;
 }
 
@@ -118,6 +119,7 @@ a:focus {
 }
 
 .navbar-custom .nav li.active a {
+    color: #e1ff6a;
     background-color: rgba(255,255,255,.3);
 }
 
@@ -327,17 +329,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #42dca3;
-    color: #42dca3;
+    border: 1px solid #e1ff6a;
+    color: #e1ff6a;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #42dca3;
+    border: 1px solid #e1ff6a;
     outline: 0;
     color: #000;
-    background-color: #42dca3;
+    background-color: #e1ff6a;
 }
 
 ul.banner-social-buttons {
