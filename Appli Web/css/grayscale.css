@@ -145,7 +145,12 @@ a:focus {
     }
 }
 
+.fa-bars {
+    color: white;
+}
+
 .intro {
+    position: relative;
     display: table;
     width: 100%;
     height: auto;
